@@ -9,3 +9,13 @@ Hi I'm Martyna I'm new here. I am at the beginning of my career so please bear w
 - 😄 Pronouns: Curious about everything
 - ⚡ Fun fact: If Pinocchio said “My Nose Will Grow Now,” it would create a paradox.
 
+| Languages |
+|-----------|
+|MYSQL      |
+|Java       |
+|PHP        |
+|Python     |
+|JavaScript |
+|HTML       |
+|CSS        |
+|C#         |
